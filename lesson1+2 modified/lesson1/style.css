@@ -1,0 +1,21 @@
+h2{
+  background: blue;
+}
+h1{
+  background: blue;
+}
+li{
+  background: red;
+}
+.heading {
+  font-style: italic;
+  font-size: 50px;
+}
+body{
+  background: green;
+}
+@media all and (max-width: 600px) and (min-width:520px){
+ body{
+   background: red;
+ }
+}

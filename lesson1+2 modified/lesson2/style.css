@@ -1,0 +1,36 @@
+body{
+  background: green;
+}
+@media all and (max-width: 600px) and (min-width:520px){
+ body{
+   background: red;
+ }
+}
+p {
+  font-size: 200px;
+}
+
+p{
+background:yellow;
+}
+p{
+  color: red;
+}
+h1{
+  background: blue;
+}
+h2{
+  color:blue;
+}
+h3{
+  color:green;
+}
+li{
+  color: pink;
+}
+li{
+  color:blue;
+}
+p{
+  color:brown;
+}
