@@ -1,0 +1,28 @@
+p{
+background:yellow;
+}
+p{
+  color: red;
+}
+h1{
+  background: blue;
+}
+h2{
+  color:blue;
+}
+h3{
+  color:green;
+}
+li{
+  color: pink;
+}
+li{
+  color:yellow;
+}
+p{
+  color:brown;
+}
+.heading{
+  font-style: italic;
+  font-size: 50px;
+}
